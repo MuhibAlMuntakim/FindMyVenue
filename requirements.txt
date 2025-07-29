@@ -7,3 +7,4 @@ rake-nltk
 crewai
 pydantic
 spacy
+sqlite3
