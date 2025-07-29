@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+PyMuPDF
+python-docx
+requests
+rake-nltk
+crewai
+pydantic
+spacy
